@@ -1,0 +1,25 @@
+Project Name: Data Professional Survey Break Down
+Tools Use: Power BI, Excel
+Steps Covered:
+•	Connecting Database with Power BI Desktop 
+•	Analyzing the tables and relations
+•	Data Cleaning using Power Query Editor 
+•	Developing an Interactive BI Dashboard / Report
+
+Key Insights:
+•	Country Distribution: Analyzed the geographical spread of survey participants to understand global trends in the data industry. Majority of the people who completed this survey are from United States.
+•	Average age of the professionals who completed the survey is 30 years approximately.
+•	Average Salary by Job Title: Visualized salary averages across different job titles, offering a clear view of industry compensation trends.
+•	Breaking into Data: Explored the challenges professionals face when entering the data field.
+•	Favourite Programming Language: Identified the most popular programming languages among data professionals. From the conducted survey, it was evident that Python is the most popular programming language among professional, where data analyst is majority of the people who use Python Programming Language.
+•	Survey Demographics: Examined the count and average age of survey takers, providing demographic insights.
+•	Happiness Metrics: Assessed survey participants' satisfaction with work/life balance and salary.
+•	This dashboard highlights key aspects of the data profession, offering actionable insights into career development and industry trends. 
+
+Here's what I discovered:
+📊 Total Surveys Taken
+👥 Average Age of Respondents
+💰 Gauge Charts for Happiness with Salary & Work-Life Balance
+📈 Average Salary by Job Title
+💻 Popular Programming Languages across Different Jobs
+
