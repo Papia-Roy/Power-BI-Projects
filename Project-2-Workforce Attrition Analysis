@@ -1,0 +1,31 @@
+This Power BI dashboard focuses on analyzing key HR metrics to provide actionable insights into workforce management, specifically targeting employee retention, diversity, and performance optimization. The dashboard helps organizations identify high-risk employee segments and take informed actions to improve retention.
+
+Technologies Used:
+•	Power BI for data visualization
+•	Microsoft Excel for data preparation
+•	Power Query for data refinement and transformation
+
+Key Metrics:
+•	Total Workforce: 1,470 employees
+•	Departures: 237 employees
+•	Attrition Rate: 16%
+•	Average Employee Age: 36.92 years
+
+Strategic Benefits:
+•	Identify employee groups at higher risk of attrition.
+•	Optimize salary structures to retain top talent.
+•	Develop tailored retention strategies for critical roles.
+•	Support HR decision-making with data-driven insights.
+
+Topics Covered:
+1.	Data Cleaning & Processing
+2.	Data Import and Transformation using Power Query
+3.	Dashboard Design and Setup in Power BI
+4.	DAX Formulas and Measures for Calculations
+5.	Visualization through Charts, Filters, and Slicers
+6.	Exporting and Sharing Dashboards
+7.	Extracting Insights to Drive HR Strategy
+
+This comprehensive dashboard empowers HR teams to monitor workforce trends and take proactive steps to reduce attrition and improve organizational outcomes.
+
+
